@@ -1,0 +1,10 @@
+C:\Users\OGR\Desktop\ntp_safa\kitap59_u17\kitap59_u17\bin\Debug\kitap59_u17.exe.config
+C:\Users\OGR\Desktop\ntp_safa\kitap59_u17\kitap59_u17\bin\Debug\kitap59_u17.exe
+C:\Users\OGR\Desktop\ntp_safa\kitap59_u17\kitap59_u17\bin\Debug\kitap59_u17.pdb
+C:\Users\OGR\Desktop\ntp_safa\kitap59_u17\kitap59_u17\obj\Debug\kitap59_u17.csproj.AssemblyReference.cache
+C:\Users\OGR\Desktop\ntp_safa\kitap59_u17\kitap59_u17\obj\Debug\kitap59_u17.Form1.resources
+C:\Users\OGR\Desktop\ntp_safa\kitap59_u17\kitap59_u17\obj\Debug\kitap59_u17.Properties.Resources.resources
+C:\Users\OGR\Desktop\ntp_safa\kitap59_u17\kitap59_u17\obj\Debug\kitap59_u17.csproj.GenerateResource.cache
+C:\Users\OGR\Desktop\ntp_safa\kitap59_u17\kitap59_u17\obj\Debug\kitap59_u17.csproj.CoreCompileInputs.cache
+C:\Users\OGR\Desktop\ntp_safa\kitap59_u17\kitap59_u17\obj\Debug\kitap59_u17.exe
+C:\Users\OGR\Desktop\ntp_safa\kitap59_u17\kitap59_u17\obj\Debug\kitap59_u17.pdb

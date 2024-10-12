@@ -1,0 +1,10 @@
+C:\Users\OGR\Desktop\ntp_safa\kiap 50_sirasizde\kiap 50_sirasizde\bin\Debug\kiap 50_sirasizde.exe.config
+C:\Users\OGR\Desktop\ntp_safa\kiap 50_sirasizde\kiap 50_sirasizde\bin\Debug\kiap 50_sirasizde.exe
+C:\Users\OGR\Desktop\ntp_safa\kiap 50_sirasizde\kiap 50_sirasizde\bin\Debug\kiap 50_sirasizde.pdb
+C:\Users\OGR\Desktop\ntp_safa\kiap 50_sirasizde\kiap 50_sirasizde\obj\Debug\kiap 50_sirasizde.csproj.AssemblyReference.cache
+C:\Users\OGR\Desktop\ntp_safa\kiap 50_sirasizde\kiap 50_sirasizde\obj\Debug\kiap_50_sirasizde.Form1.resources
+C:\Users\OGR\Desktop\ntp_safa\kiap 50_sirasizde\kiap 50_sirasizde\obj\Debug\kiap_50_sirasizde.Properties.Resources.resources
+C:\Users\OGR\Desktop\ntp_safa\kiap 50_sirasizde\kiap 50_sirasizde\obj\Debug\kiap 50_sirasizde.csproj.GenerateResource.cache
+C:\Users\OGR\Desktop\ntp_safa\kiap 50_sirasizde\kiap 50_sirasizde\obj\Debug\kiap 50_sirasizde.csproj.CoreCompileInputs.cache
+C:\Users\OGR\Desktop\ntp_safa\kiap 50_sirasizde\kiap 50_sirasizde\obj\Debug\kiap 50_sirasizde.exe
+C:\Users\OGR\Desktop\ntp_safa\kiap 50_sirasizde\kiap 50_sirasizde\obj\Debug\kiap 50_sirasizde.pdb

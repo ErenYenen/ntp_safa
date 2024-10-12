@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OGR\\Desktop\\ntp_safa\\kitap 52_u10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F9B07-160F-4AA6-93F2-3DBFCFDA9D31}|kitap 52_u10\\kitap 52_u10.csproj|c:\\users\\ogr\\desktop\\ntp_safa\\kitap 52_u10\\kitap 52_u10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC7F9B07-160F-4AA6-93F2-3DBFCFDA9D31}|kitap 52_u10\\kitap 52_u10.csproj|solutionrelative:kitap 52_u10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F9B07-160F-4AA6-93F2-3DBFCFDA9D31}|kitap 52_u10\\kitap 52_u10.csproj|c:\\users\\ogr\\desktop\\ntp_safa\\kitap 52_u10\\kitap 52_u10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7F9B07-160F-4AA6-93F2-3DBFCFDA9D31}|kitap 52_u10\\kitap 52_u10.csproj|solutionrelative:kitap 52_u10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\OGR\\Desktop\\ntp_safa\\kitap 52_u10\\kitap 52_u10\\Form1.cs",
+              "RelativeDocumentMoniker": "kitap 52_u10\\Form1.cs",
+              "ToolTip": "C:\\Users\\OGR\\Desktop\\ntp_safa\\kitap 52_u10\\kitap 52_u10\\Form1.cs",
+              "RelativeToolTip": "kitap 52_u10\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwBkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T08:24:06.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\OGR\\Desktop\\ntp_safa\\kitap 52_u10\\kitap 52_u10\\Form1.cs",
+              "RelativeDocumentMoniker": "kitap 52_u10\\Form1.cs",
+              "ToolTip": "C:\\Users\\OGR\\Desktop\\ntp_safa\\kitap 52_u10\\kitap 52_u10\\Form1.cs [Design]",
+              "RelativeToolTip": "kitap 52_u10\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T08:22:30.417Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+C:\Users\OGR\Desktop\ntp_safa\kitap50_sirasizde\kitap50_sirasizde\obj\Debug\kitap50_sirasizde.csproj.AssemblyReference.cache
+C:\Users\OGR\Desktop\ntp_safa\kitap50_sirasizde\kitap50_sirasizde\obj\Debug\kitap50_sirasizde.Form1.resources
+C:\Users\OGR\Desktop\ntp_safa\kitap50_sirasizde\kitap50_sirasizde\obj\Debug\kitap50_sirasizde.Properties.Resources.resources
+C:\Users\OGR\Desktop\ntp_safa\kitap50_sirasizde\kitap50_sirasizde\obj\Debug\kitap50_sirasizde.csproj.GenerateResource.cache
+C:\Users\OGR\Desktop\ntp_safa\kitap50_sirasizde\kitap50_sirasizde\obj\Debug\kitap50_sirasizde.csproj.CoreCompileInputs.cache
